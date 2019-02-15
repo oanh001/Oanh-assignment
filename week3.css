@@ -1,0 +1,49 @@
+body {
+	
+}
+
+h1 {
+	color:white;
+	text-align: center;
+	background-color:  #9933ff;
+	font-size:50px;
+	font-family: Monaco;
+}
+
+h2 {
+	color:black;
+	text-align: left;
+	font-size:35px;
+	background-color: #d9b3ff;
+	font-family:monaco;
+}
+
+#head {
+	color:;
+	font-size:42.5px;
+	font-family:courier;
+	text-align:center;
+	color:tomato;
+	
+}
+
+p {
+	color:  #29293d ;
+	text-align: left;
+	font-size:20px;
+	font-family: arial;
+}
+
+#p1 {
+	color: red;
+	text-align: center;
+	font-size:22px;
+	font-family: courier;
+}
+
+p1 {
+	color:  #ff0066;
+	font-size:26px;
+	font-family:monaco;
+}
+	
